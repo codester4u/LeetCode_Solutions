@@ -1,0 +1,3 @@
+# LeetCode_Solutions
+
+This repo contains python solutions for leet code problems. Refer them for idea, only after trying on your own...
