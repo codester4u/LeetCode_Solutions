@@ -1,0 +1,1 @@
+select a.name from Customer a left outer join Customer b on (a.referee_id=b.id) where ifnull(a.referee_id,-1)!=2 order by a.id;
